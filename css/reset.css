@@ -43,6 +43,7 @@ button,
 textarea,
 select {
     font: inherit;
+    outline: none;
 }
 
 @media (favors-reduced-motion: reduce) {
